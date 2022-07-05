@@ -23,7 +23,7 @@
 
 - :computer: Currently learning Computer Science on OSSU
 - :gear: Learning Backend Dev on The Odin Project
-- :video_game: Gaming lover and hoping for getting into Game Dev at some point
+- :video_game: Game lover and hoping to get into Game Dev at some point
 - :necktie: Looking for professional development experience and accountability
 - :email: [Reach me](mailto:jp.coutm@gmail.com)
 
