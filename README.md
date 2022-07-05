@@ -75,4 +75,5 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 23 - The epiphany](https://dev.to/jampamatos/day-23-the-epiphany-4o)
 <!-- BLOG-POST-LIST:END -->
