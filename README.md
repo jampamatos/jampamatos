@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/The%20Odin%20Project-D6AA68?style=for-the-badge&logo=data:image/png" alt="OSSU Badge"/>
     </a>
   </div>
-
+<img src="https://www.codewars.com/users/jampamatos/badges/small" alt=""/><br>
 <img src="https://komarev.com/ghpvc/?username=jampamatos&style=flat-square&color=blue" alt=""/>
 </div>
 
