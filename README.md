@@ -77,5 +77,6 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Golds and Dragons: the Quest of an AI Awakened World](https://dev.to/jampamatos/golds-and-dragons-the-quest-of-an-ai-awakened-world-55p9)
 - [Day 23 - The epiphany](https://dev.to/jampamatos/day-23-the-epiphany-4o)
 <!-- BLOG-POST-LIST:END -->
