@@ -36,8 +36,8 @@
   <a href="mailto:jp.coutm@gmail.com">
       <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
     </a>
-  <a href="https://twitter.com/jumpamatos">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://bsky.app/profile/jampamatos.jampa.br">
+      <img src="https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky Badge"/>
   </a>
   </div>
 
