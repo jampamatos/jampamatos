@@ -86,9 +86,9 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Press Start to Continue](https://dev.to/jampamatos/press-start-to-continue-2m8g)
 - [From Messy Data to Super Mario Pipeline: My First Adventure in Data Engineering](https://dev.to/jampamatos/from-messy-data-to-super-mario-pipeline-my-first-adventure-in-data-engineering-1apo)
 - [Pedaling Through Data: A Wheelie Fun Bike Rental Analysis with Python and PostgreSQL](https://dev.to/jampamatos/pedaling-through-data-a-wheelie-fun-bike-rental-analysis-with-python-and-postgresql-13dc)
 - [Lazy Programmer&#39;s Guide to Automating Price Calculations](https://dev.to/jampamatos/lazy-programmers-guide-to-automating-price-calculations-4g93)
 - [Golds and Dragons: the Quest of an AI Awakened World](https://dev.to/jampamatos/golds-and-dragons-the-quest-of-an-ai-awakened-world-55p9)
-- [Day 23 - The epiphany](https://dev.to/jampamatos/day-23-the-epiphany-4o)
 <!-- BLOG-POST-LIST:END -->
