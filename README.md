@@ -1,4 +1,8 @@
 # WELCOME TO JAMPA MATOS' INCREDIBLE GITHUB REPOSITORIES EMPORIUM & BAZAAR
+
+> 🧙‍♂️ **I ship Landing Pages (48–72h) + Python spreadsheet automation** (PT/EN).  
+> Browse the stalls below — the best stuff is pinned ↓
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3oEjI5VtIhHvK37WYo/giphy.gif">
   
@@ -7,20 +11,32 @@
       <img src="https://img.shields.io/badge/OSSU-computer--science-blue?style=for-the-badge&logo=ossu&logoColor=white" alt="OSSU Badge"/>
     </a>
     <a href="https://www.theodinproject.com/">
-      <img src="https://img.shields.io/badge/The%20Odin%20Project-D6AA68?style=for-the-badge&logo=data:image/png" alt="OSSU Badge"/>
+      <img src="https://img.shields.io/badge/The%20Odin%20Project-D6AA68?style=for-the-badge&logo=data:image/png" alt="The Odin Project Badge"/>
     </a>
   </div>
+
   <a href="https://www.codewars.com/users/jampamatos">
-    <img src="https://www.codewars.com/users/jampamatos/badges/small" alt=""/><br>
+    <img src="https://www.codewars.com/users/jampamatos/badges/small" alt="Codewars badge"/><br>
   </a>
-<img src="https://komarev.com/ghpvc/?username=jampamatos&style=flat-square&color=blue" alt=""/>
+
+  <img src="https://komarev.com/ghpvc/?username=jampamatos&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
 
-### :man_technologist: About me:
+## 🧾 Hire me for (fast, clear-scope deliverables)
 
-:headphones: chumbawamba - tubthumping.mp3<br>
+- **Landing Page Express (48–72h):** responsive layout, WhatsApp CTA, contact form, basic SEO, deploy (GitHub Pages/Netlify)
+- **Python Spreadsheet/Data Automation:** cleaning + validation + reporting, reproducible Excel/CSV outputs
+- **Small web fixes/improvements:** React/TypeScript UI, print flows, state management, bugfixes
+
+📩 **Best way to start:** tell me (1) goal (2) deadline (3) references/materials and I’ll reply with a tight scope.
+
+---
+
+### :man_technologist: About me
+
+:headphones: chumbawamba - tubthumping.mp3  
 :brazil: From Brazil
 
 - :computer: Currently learning Computer Science on OSSU
@@ -31,22 +47,22 @@
 
 <div id="badges" align="center">
   <a href="https://www.jampamatos.jampa.br/">
-      <img src="https://img.shields.io/badge/Webpage-orange?style=for-the-badge&logo=alfred&logoColor=white" alt="Webpage"/>
+    <img src="https://img.shields.io/badge/Webpage-orange?style=for-the-badge&logo=alfred&logoColor=white" alt="Webpage"/>
   </a>
-    <a href="https://www.linkedin.com/in/jampamatos/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/jampamatos/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:jp.coutm@gmail.com">
-      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  <a href="https://bsky.app/profile/jampamatos.jampa.br">
-      <img src="https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky Badge"/>
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  </div>
+  <a href="https://bsky.app/profile/jampamatos.jampa.br">
+    <img src="https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky Badge"/>
+  </a>
+</div>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
@@ -69,21 +85,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  
 </div>
 
 ---
 
-
-### :fire: My Stats :
+### :fire: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jampamatos&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jampamatos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Press Start to Continue](https://dev.to/jampamatos/press-start-to-continue-2m8g)
